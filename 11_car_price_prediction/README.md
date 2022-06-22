@@ -41,7 +41,7 @@
 - Обучение нескольких моделей и сравнение показателей метрик качества.
 
 # Стэк
-Scikit-learn, LinearRegression, SGDRegressor, LGBMRegressor, CatboostRegressor, RandomForestRegressor, Pandas, NumPy, Matplotlib, Seaborn, One-Hot Encoding, Robust Scaler.
+Scikit-learn, LinearRegression, SGDRegressor, LGBMRegressor, CatboostRegressor, RandomForestRegressor, Pandas, NumPy, Matplotlib, Seaborn, OneHotEncoding, RobustScaler.
 
 # Выводы
 

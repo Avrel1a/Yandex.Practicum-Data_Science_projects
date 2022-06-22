@@ -17,7 +17,7 @@
 
 # Стэк
 
-Scikit-learn, Pandas, NumPy, Random, Matplotlib.
+Scikit-learn, Pandas, NumPy, Random, Matplotlib, Линейная алгебра (матрицы и их свойства).
 
 # Выводы
 
